@@ -1,3 +1,5 @@
 hello world!
 
-i'm learning git & github
+i'm learning git & GitHub
+
+it's fun learning git and GitHub
